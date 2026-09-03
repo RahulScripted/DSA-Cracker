@@ -4,7 +4,7 @@
 
 ### A structured DSA interview-preparation repository
 
-Optimized solutions | Complexity analysis | Progressive difficulty | Multi-language support
+Optimized solutions · Complexity analysis · Progressive difficulty · Multi-language support
 
 <br/>
 
@@ -22,20 +22,36 @@ Optimized solutions | Complexity analysis | Progressive difficulty | Multi-langu
 ```
 DSA-Cracker/
 ├── Question Bank/
+│   ├── Binary Search/
+│   │   └── binarySearch.cpp
+│   ├── Coin Change/
+│   │   ├── coinChangeI.cpp
+│   │   └── coinChangeII.cpp
 │   ├── Contains Duplicate/
 │   │   ├── containsDuplicateI.cpp
 │   │   └── containsDuplicateII.cpp
+│   ├── Detect Capital/
+│   │   └── detectCapital.cpp
 │   ├── Find The Duplicate Number/
 │   │   └── findTheDuplicateNumber.cpp
+│   ├── Linked List Cycle/
+│   │   ├── linkedListCycleI.cpp
+│   │   └── linkedListCycleII.cpp
 │   ├── Missing Number/
 │   │   └── missingNumber.cpp
-│   └── Move Zeroes/
-│       └── MovesZeroes.cpp
+│   ├── Move Zeroes/
+│   │   └── MovesZeroes.cpp
+│   └── Rotate Array/
+│       └── rotateArray.cpp
 │
 ├── POTD/
 │   └── 2026/
 │       ├── August/
+│       │   ├── August-30.cpp
+│       │   └── August-31.cpp
 │       ├── September/
+│       │   ├── September-02.cpp
+│       │   └── September-03.cpp
 │       └── October/
 │
 ├── Contest/
@@ -55,16 +71,23 @@ DSA-Cracker/
 
 | Problem | Topic | Solution |
 |---------|-------|----------|
+| Binary Search | Binary Search | [cpp](./Question%20Bank/Binary%20Search/binarySearch.cpp) |
 | Contains Duplicate I | Arrays / Hashing | [cpp](./Question%20Bank/Contains%20Duplicate/containsDuplicateI.cpp) |
 | Contains Duplicate II | Sliding Window / Hashing | [cpp](./Question%20Bank/Contains%20Duplicate/containsDuplicateII.cpp) |
+| Detect Capital | Strings | [cpp](./Question%20Bank/Detect%20Capital/detectCapital.cpp) |
+| Linked List Cycle I | Linked List / Floyd's Cycle | [cpp](./Question%20Bank/Linked%20List%20Cycle/linkedListCycleI.cpp) |
 | Missing Number | Arrays / Math / XOR | [cpp](./Question%20Bank/Missing%20Number/missingNumber.cpp) |
 | Move Zeroes | Two Pointers | [cpp](./Question%20Bank/Move%20Zeroes/MovesZeroes.cpp) |
+| Rotate Array | Arrays / Two Pointers | [cpp](./Question%20Bank/Rotate%20Array/rotateArray.cpp) |
 
 ### 🟡 Medium
 
 | Problem | Topic | Solution |
 |---------|-------|----------|
+| Coin Change I | Dynamic Programming | [cpp](./Question%20Bank/Coin%20Change/coinChangeI.cpp) |
+| Coin Change II | Dynamic Programming | [cpp](./Question%20Bank/Coin%20Change/coinChangeII.cpp) |
 | Find The Duplicate Number | Arrays / Floyd's Cycle | [cpp](./Question%20Bank/Find%20The%20Duplicate%20Number/findTheDuplicateNumber.cpp) |
+| Linked List Cycle II | Linked List / Floyd's Cycle | [cpp](./Question%20Bank/Linked%20List%20Cycle/linkedListCycleII.cpp) |
 
 ### 🔴 Hard
 
@@ -91,7 +114,11 @@ Daily solutions organized by year and month.
 POTD/
 └── 2026/
     ├── August/
+    │   ├── August-30.cpp
+    │   └── August-31.cpp
     ├── September/
+    │   ├── September-02.cpp
+    │   └── September-03.cpp
     └── October/
 ```
 
