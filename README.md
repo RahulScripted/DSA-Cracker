@@ -45,14 +45,17 @@ DSA-Cracker/
 │       └── rotateArray.cpp
 │
 ├── POTD/
-│   └── 2026/
-│       ├── August/
-│       │   ├── August-30.cpp
-│       │   └── August-31.cpp
-│       ├── September/
-│       │   ├── September-02.cpp
-│       │   └── September-03.cpp
-│       └── October/
+│   ├── 2026/
+│   │   ├── August/
+│   │   │   ├── August-30.cpp
+│   │   │   └── August-31.cpp
+│   │   ├── September/
+│   │   │   ├── September-02.cpp
+│   │   │   ├── September-03.cpp
+│   │   │   ├── September-04.cpp
+│   │   │   └── Septembe-06.cpp
+│   │   └── October/
+│   └── 2027/
 │
 ├── Contest/
 │
@@ -112,14 +115,17 @@ Daily solutions organized by year and month.
 
 ```
 POTD/
-└── 2026/
-    ├── August/
-    │   ├── August-30.cpp
-    │   └── August-31.cpp
-    ├── September/
-    │   ├── September-02.cpp
-    │   └── September-03.cpp
-    └── October/
+├── 2026/
+│   ├── August/
+│   │   ├── August-30.cpp
+│   │   └── August-31.cpp
+│   ├── September/
+│   │   ├── September-02.cpp
+│   │   ├── September-03.cpp
+│   │   ├── September-04.cpp
+│   │   └── Septembe-06.cpp
+│   └── October/
+└── 2027/
 ```
 
 ---
