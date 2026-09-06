@@ -58,6 +58,12 @@ DSA-Cracker/
 │   └── 2027/
 │
 ├── Contest/
+│   ├── Weekly/
+│   │   ├── Contest 518/
+│   │   │   ├── Problem4043.cpp
+│   │   │   └── Problem-4044.cpp
+│   │   └── Contest 519/
+│   └── Bi-Weekly/
 │
 └── SQL/
     ├── Duplicate Emails/
@@ -97,6 +103,17 @@ DSA-Cracker/
 | Problem | Topic | Solution |
 |---------|-------|----------|
 | — | — | — |
+
+---
+
+## 🏆 Contest
+
+### Weekly
+
+| Contest | Problem | Solution |
+|---------|---------|----------|
+| Contest 518 | Problem 4043 | [cpp](./Contest/Weekly/Contest%20518/Problem4043.cpp) |
+| Contest 518 | Problem 4044 | [cpp](./Contest/Weekly/Contest%20518/Problem-4044.cpp) |
 
 ---
 
