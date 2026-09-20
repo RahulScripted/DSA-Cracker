@@ -62,7 +62,8 @@ DSA-Cracker/
 │   │   │   ├── September-14.cpp
 │   │   │   ├── September-15.cpp
 │   │   │   ├── September-16.cpp
-│   │   │   └── September-17.cpp
+│   │   │   ├── September-17.cpp
+│   │   │   └── September-20.cpp
 │   │   └── October/
 │   └── 2027/
 │
@@ -158,7 +159,8 @@ POTD/
 │   │   ├── September-14.cpp
 │   │   ├── September-15.cpp
 │   │   ├── September-16.cpp
-│   │   └── September-17.cpp
+│   │   ├── September-17.cpp
+│   │   └── September-20.cpp
 │   └── October/
 └── 2027/
 ```
