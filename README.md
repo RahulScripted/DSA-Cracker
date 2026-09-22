@@ -37,6 +37,8 @@ DSA-Cracker/
 │   ├── Linked List Cycle/
 │   │   ├── linkedListCycleI.cpp
 │   │   └── linkedListCycleII.cpp
+│   ├── Longest Substring Without Repeating Characters/
+│   │   └── longestSubstringWithoutRepeatingCharacters.cpp
 │   ├── Missing Number/
 │   │   └── missingNumber.cpp
 │   ├── Move Zeroes/
@@ -96,6 +98,7 @@ DSA-Cracker/
 | Contains Duplicate II | Sliding Window / Hashing | [cpp](./Question%20Bank/Contains%20Duplicate/containsDuplicateII.cpp) |
 | Detect Capital | Strings | [cpp](./Question%20Bank/Detect%20Capital/detectCapital.cpp) |
 | Linked List Cycle I | Linked List / Floyd's Cycle | [cpp](./Question%20Bank/Linked%20List%20Cycle/linkedListCycleI.cpp) |
+| Longest Substring Without Repeating Characters | Sliding Window / Hashing | [cpp](./Question%20Bank/Longest%20Substring%20Without%20Repeating%20Characters/longestSubstringWithoutRepeatingCharacters.cpp) |
 | Missing Number | Arrays / Math / XOR | [cpp](./Question%20Bank/Missing%20Number/missingNumber.cpp) |
 | Move Zeroes | Two Pointers | [cpp](./Question%20Bank/Move%20Zeroes/MovesZeroes.cpp) |
 | Rotate Array | Arrays / Two Pointers | [cpp](./Question%20Bank/Rotate%20Array/rotateArray.cpp) |
