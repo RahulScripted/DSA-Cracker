@@ -71,11 +71,12 @@ DSA-Cracker/
 │   │   │   ├── September-24.cpp
 │   │   │   ├── September-25.cpp
 │   │   │   ├── September-26.cpp
-│   │   │   └── September-27.cpp
-│   │   │   └── September-28.cpp
-│   │   │   └── September-29.cpp
+│   │   │   ├── September-27.cpp
+│   │   │   ├── September-28.cpp
+│   │   │   ├── September-29.cpp
 │   │   │   └── September-30.cpp
 │   │   └── October/
+│   │       └── October-01.cpp
 │   └── 2027/
 │
 ├── Contest/
@@ -178,11 +179,12 @@ POTD/
 │   │   ├── September-24.cpp
 │   │   ├── September-25.cpp
 │   │   ├── September-26.cpp
-│   │   └── September-27.cpp
-│   │   └── September-28.cpp
-│   │   └── September-29.cpp
+│   │   ├── September-27.cpp
+│   │   ├── September-28.cpp
+│   │   ├── September-29.cpp
 │   │   └── September-30.cpp
 │   └── October/
+│       └── October-01.cpp
 └── 2027/
 ```
 
