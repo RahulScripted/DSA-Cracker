@@ -95,6 +95,11 @@ DSA-Cracker/
 │   │   │   └── Problem-4044.cpp
 │   │   └── Contest 519/
 │   └── Bi-Weekly/
+│       ├── Contest 193/
+│       │   ├── LongestResilientSubarrayI.cpp
+│       │   ├── LongestResilientSubarrayII.cpp
+│       │   └── MaximumProductPairWithTargetSum.cpp
+│       └── Contest 194/
 │
 └── SQL/
     ├── Duplicate Emails/
@@ -146,6 +151,14 @@ DSA-Cracker/
 |---------|---------|----------|
 | Contest 518 | Problem 4043 | [cpp](./Contest/Weekly/Contest%20518/Problem4043.cpp) |
 | Contest 518 | Problem 4044 | [cpp](./Contest/Weekly/Contest%20518/Problem-4044.cpp) |
+
+### Bi-Weekly
+
+| Contest | Problem | Solution |
+|---------|---------|----------|
+| Contest 193 | Longest Resilient Subarray I | [cpp](./Contest/Bi-Weekly/Contest%20193/LongestResilientSubarrayI.cpp) |
+| Contest 193 | Longest Resilient Subarray II | [cpp](./Contest/Bi-Weekly/Contest%20193/LongestResilientSubarrayII.cpp) |
+| Contest 193 | Maximum Product Pair With Target Sum | [cpp](./Contest/Bi-Weekly/Contest%20193/MaximumProductPairWithTargetSum.cpp) |
 
 ---
 
