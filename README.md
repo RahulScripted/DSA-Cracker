@@ -88,18 +88,26 @@ DSA-Cracker/
 │   │       └── October-10.cpp
 │   └── 2027/
 │
+├── POTD - Striver/
+│   ├── 2026/
+│   │   ├── October/
+│   │   │   └── October-12.cpp
+│   │   ├── November/
+│   │   └── December/
+│   └── 2027/
+│
 ├── Contest/
 │   ├── Weekly/
-│   │   ├── Contest 518/
-│   │   │   ├── Problem4043.cpp
-│   │   │   └── Problem-4044.cpp
-│   │   └── Contest 519/
+│   │   └── Contest 518/
+│   │       ├── Problem4043.cpp
+│   │       └── Problem-4044.cpp
 │   └── Bi-Weekly/
-│       ├── Contest 193/
-│       │   ├── LongestResilientSubarrayI.cpp
-│       │   ├── LongestResilientSubarrayII.cpp
-│       │   └── MaximumProductPairWithTargetSum.cpp
-│       └── Contest 194/
+│       └── Contest 193/
+│           ├── LongestResilientSubarrayI.cpp
+│           ├── LongestResilientSubarrayII.cpp
+│           └── MaximumProductPairWithTargetSum.cpp
+│
+├── Roadmap/
 │
 └── SQL/
     ├── Duplicate Emails/
@@ -125,6 +133,7 @@ DSA-Cracker/
 | Missing Number | Arrays / Math / XOR | [cpp](./Question%20Bank/Missing%20Number/missingNumber.cpp) |
 | Move Zeroes | Two Pointers | [cpp](./Question%20Bank/Move%20Zeroes/MovesZeroes.cpp) |
 | Rotate Array | Arrays / Two Pointers | [cpp](./Question%20Bank/Rotate%20Array/rotateArray.cpp) |
+| Two Sum | Arrays / Hashing | [cpp](./Question%20Bank/Two%20Sum/twoSum.cpp) |
 
 ### 🟡 Medium
 
@@ -216,6 +225,22 @@ POTD/
 │       ├── October-08.cpp
 │       ├── October-09.cpp
 │       └── October-10.cpp
+└── 2027/
+```
+
+---
+
+## 📅 POTD - Striver (Problem of the Day)
+
+Daily Striver solutions organized by year and month.
+
+```
+POTD - Striver/
+├── 2026/
+│   ├── October/
+│   │   └── October-12.cpp
+│   ├── November/
+│   └── December/
 └── 2027/
 ```
 
