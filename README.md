@@ -22,6 +22,10 @@ Optimized solutions · Complexity analysis · Progressive difficulty · Multi-la
 ```
 DSA-Cracker/
 ├── Question Bank/
+│   ├── Best time to buy and sell stock/
+│   │   ├── bestTimeBuyAndSellStockI.cpp
+│   │   ├── bestTimeBuyAndSellStockII.cpp
+│   │   └── bestTimeBuyAndSellStockIII.cpp
 │   ├── Binary Search/
 │   │   └── binarySearch.cpp
 │   ├── Coin Change/
@@ -130,6 +134,8 @@ DSA-Cracker/
 
 | Problem | Topic | Solution |
 |---------|-------|----------|
+| Best Time to Buy and Sell Stock I | Arrays / Sliding Window | [cpp](./Question%20Bank/Best%20time%20to%20buy%20and%20sell%20stock/bestTimeBuyAndSellStockI.cpp) |
+| Best Time to Buy and Sell Stock II | Arrays / Greedy | [cpp](./Question%20Bank/Best%20time%20to%20buy%20and%20sell%20stock/bestTimeBuyAndSellStockII.cpp) |
 | Binary Search | Binary Search | [cpp](./Question%20Bank/Binary%20Search/binarySearch.cpp) |
 | Contains Duplicate I | Arrays / Hashing | [cpp](./Question%20Bank/Contains%20Duplicate/containsDuplicateI.cpp) |
 | Contains Duplicate II | Sliding Window / Hashing | [cpp](./Question%20Bank/Contains%20Duplicate/containsDuplicateII.cpp) |
@@ -154,7 +160,7 @@ DSA-Cracker/
 
 | Problem | Topic | Solution |
 |---------|-------|----------|
-| — | — | — |
+| Best Time to Buy and Sell Stock III | Arrays / DP | [cpp](./Question%20Bank/Best%20time%20to%20buy%20and%20sell%20stock/bestTimeBuyAndSellStockIII.cpp) |
 
 ---
 
