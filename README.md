@@ -91,7 +91,9 @@ DSA-Cracker/
 ├── POTD - Striver/
 │   ├── 2026/
 │   │   ├── October/
-│   │   │   └── October-12.cpp
+│   │   │   ├── October-12.cpp
+│   │   │   ├── October-13.cpp
+│   │   │   └── October-14.cpp
 │   │   ├── November/
 │   │   └── December/
 │   └── 2027/
@@ -112,8 +114,12 @@ DSA-Cracker/
 └── SQL/
     ├── Duplicate Emails/
     │   └── duplicateEmail.sql
-    └── Delete Duplicate Emails/
-        └── deleteDuplicateEmail.sql
+    ├── Delete Duplicate Emails/
+    │   └── deleteDuplicateEmail.sql
+    ├── Match Employees With Salaries/
+    │   └── matchEmployeeWithSalaries.sql
+    └── Top Grade Per Student/
+        └── topGradePerStudent.sql
 ```
 
 ---
@@ -177,6 +183,8 @@ DSA-Cracker/
 |---------|-----------|----------|
 | Duplicate Emails | 🟢 Easy | [sql](./SQL/Duplicate%20Emails/duplicateEmail.sql) |
 | Delete Duplicate Emails | 🟢 Easy | [sql](./SQL/Delete%20Duplicate%20Emails/deleteDuplicateEmail.sql) |
+| Match Employees With Salaries | 🟢 Easy | [sql](./SQL/Match%20Employees%20With%20Salaries/matchEmployeeWithSalaries.sql) |
+| Top Grade Per Student | 🟢 Easy | [sql](./SQL/Top%20Grade%20Per%20Student/topGradePerStudent.sql) |
 
 ---
 
@@ -238,7 +246,9 @@ Daily Striver solutions organized by year and month.
 POTD - Striver/
 ├── 2026/
 │   ├── October/
-│   │   └── October-12.cpp
+│   │   ├── October-12.cpp
+│   │   ├── October-13.cpp
+│   │   └── October-14.cpp
 │   ├── November/
 │   └── December/
 └── 2027/
