@@ -97,7 +97,8 @@ DSA-Cracker/
 │   │   ├── October/
 │   │   │   ├── October-12.cpp
 │   │   │   ├── October-13.cpp
-│   │   │   └── October-14.cpp
+│   │   │   ├── October-14.cpp
+│   │   │   └── October-15.cpp
 │   │   ├── November/
 │   │   └── December/
 │   └── 2027/
@@ -122,8 +123,10 @@ DSA-Cracker/
     │   └── deleteDuplicateEmail.sql
     ├── Match Employees With Salaries/
     │   └── matchEmployeeWithSalaries.sql
-    └── Top Grade Per Student/
-        └── topGradePerStudent.sql
+    ├── Top Grade Per Student/
+    │   └── topGradePerStudent.sql
+    └── Warmer Days/
+        └── warmerDays.sql
 ```
 
 ---
@@ -191,6 +194,7 @@ DSA-Cracker/
 | Delete Duplicate Emails | 🟢 Easy | [sql](./SQL/Delete%20Duplicate%20Emails/deleteDuplicateEmail.sql) |
 | Match Employees With Salaries | 🟢 Easy | [sql](./SQL/Match%20Employees%20With%20Salaries/matchEmployeeWithSalaries.sql) |
 | Top Grade Per Student | 🟢 Easy | [sql](./SQL/Top%20Grade%20Per%20Student/topGradePerStudent.sql) |
+| Warmer Days | 🟢 Easy | [sql](./SQL/Warmer%20Days/warmerDays.sql) |
 
 ---
 
@@ -254,7 +258,8 @@ POTD - Striver/
 │   ├── October/
 │   │   ├── October-12.cpp
 │   │   ├── October-13.cpp
-│   │   └── October-14.cpp
+│   │   ├── October-14.cpp
+│   │   └── October-15.cpp
 │   ├── November/
 │   └── December/
 └── 2027/
