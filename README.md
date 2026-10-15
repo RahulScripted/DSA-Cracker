@@ -149,6 +149,7 @@ DSA-Cracker/
 | Move Zeroes | Two Pointers | [cpp](./Question%20Bank/Move%20Zeroes/MovesZeroes.cpp) |
 | Rotate Array | Arrays / Two Pointers | [cpp](./Question%20Bank/Rotate%20Array/rotateArray.cpp) |
 | Two Sum | Arrays / Hashing | [cpp](./Question%20Bank/Two%20Sum/twoSum.cpp) |
+| Valid Palindrome | Strings / Two Pointers | [cpp](./Question%20Bank/Valid%20Palindrome/validPalindrome.cpp) |
 
 ### 🟡 Medium
 
