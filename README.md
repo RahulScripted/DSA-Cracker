@@ -118,6 +118,8 @@ DSA-Cracker/
 ├── Roadmap/
 │
 └── SQL/
+    ├── Big Countries/
+    │   └── bigCountries.sql
     ├── Duplicate Emails/
     │   └── duplicateEmail.sql
     ├── Delete Duplicate Emails/
@@ -192,6 +194,7 @@ DSA-Cracker/
 
 | Problem | Difficulty | Solution |
 |---------|-----------|----------|
+| Big Countries | 🟢 Easy | [sql](./SQL/Big%20Countries/bigCountries.sql) |
 | Duplicate Emails | 🟢 Easy | [sql](./SQL/Duplicate%20Emails/duplicateEmail.sql) |
 | Delete Duplicate Emails | 🟢 Easy | [sql](./SQL/Delete%20Duplicate%20Emails/deleteDuplicateEmail.sql) |
 | Match Employees With Salaries | 🟢 Easy | [sql](./SQL/Match%20Employees%20With%20Salaries/matchEmployeeWithSalaries.sql) |
