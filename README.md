@@ -131,6 +131,8 @@ DSA-Cracker/
     │   └── deleteDuplicateEmail.sql
     ├── Match Employees With Salaries/
     │   └── matchEmployeeWithSalaries.sql
+    ├── Query Quality Analysis/
+    │   └── queryQualityAnalysis.sql
     ├── Top Grade Per Student/
     │   └── topGradePerStudent.sql
     └── Warmer Days/
@@ -204,6 +206,7 @@ DSA-Cracker/
 | Duplicate Emails | 🟢 Easy | [sql](./SQL/Duplicate%20Emails/duplicateEmail.sql) |
 | Delete Duplicate Emails | 🟢 Easy | [sql](./SQL/Delete%20Duplicate%20Emails/deleteDuplicateEmail.sql) |
 | Match Employees With Salaries | 🟢 Easy | [sql](./SQL/Match%20Employees%20With%20Salaries/matchEmployeeWithSalaries.sql) |
+| Query Quality Analysis | 🟢 Easy | [sql](./SQL/Query%20Quality%20Analysis/queryQualityAnalysis.sql) |
 | Top Grade Per Student | 🟢 Easy | [sql](./SQL/Top%20Grade%20Per%20Student/topGradePerStudent.sql) |
 | Warmer Days | 🟢 Easy | [sql](./SQL/Warmer%20Days/warmerDays.sql) |
 
