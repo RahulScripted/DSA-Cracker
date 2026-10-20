@@ -122,6 +122,8 @@ DSA-Cracker/
 ├── Roadmap/
 │
 └── SQL/
+    ├── All Product Buyers/
+    │   └── allProducBuyers.sql
     ├── Big Countries/
     │   └── bigCountries.sql
     ├── Combine Active & Archived User/
@@ -202,6 +204,7 @@ DSA-Cracker/
 
 | Problem | Difficulty | Solution |
 |---------|-----------|----------|
+| All Product Buyers | 🟢 Easy | [sql](./SQL/All%20Product%20Buyers/allProducBuyers.sql) |
 | Big Countries | 🟢 Easy | [sql](./SQL/Big%20Countries/bigCountries.sql) |
 | Combine Active & Archived User | 🟢 Easy | [sql](./SQL/Combine%20Active%20%26%20Archived%20User/combineActiveAndArchivedUser.sql) |
 | Duplicate Emails | 🟢 Easy | [sql](./SQL/Duplicate%20Emails/duplicateEmail.sql) |
