@@ -104,7 +104,8 @@ DSA-Cracker/
 │   │   │   ├── October-18.cpp
 │   │   │   ├── October-19.cpp
 │   │   │   ├── October-20.cpp
-│   │   │   └── October-22.cpp
+│   │   │   ├── October-22.cpp
+│   │   │   └── October-23.cpp
 │   │   ├── November/
 │   │   └── December/
 │   └── 2027/
@@ -284,7 +285,8 @@ POTD - Striver/
 │   │   ├── October-18.cpp
 │   │   ├── October-19.cpp
 │   │   ├── October-20.cpp
-│   │   └── October-22.cpp
+│   │   ├── October-22.cpp
+│   │   └── October-23.cpp
 │   ├── November/
 │   └── December/
 └── 2027/
