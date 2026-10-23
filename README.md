@@ -210,6 +210,7 @@ DSA-Cracker/
 | Big Countries | 🟢 Easy | [sql](./SQL/Big%20Countries/bigCountries.sql) |
 | Combine Active & Archived User | 🟢 Easy | [sql](./SQL/Combine%20Active%20%26%20Archived%20User/combineActiveAndArchivedUser.sql) |
 | Duplicate Emails | 🟢 Easy | [sql](./SQL/Duplicate%20Emails/duplicateEmail.sql) |
+| Highest Order Placing Customer | 🟢 Easy | [sql](./SQL/Highest%20Order%20Placing%20Customer/highestOrderPlacingCustomer.sql) |
 | Delete Duplicate Emails | 🟢 Easy | [sql](./SQL/Delete%20Duplicate%20Emails/deleteDuplicateEmail.sql) |
 | Match Employees With Salaries | 🟢 Easy | [sql](./SQL/Match%20Employees%20With%20Salaries/matchEmployeeWithSalaries.sql) |
 | Query Quality Analysis | 🟢 Easy | [sql](./SQL/Query%20Quality%20Analysis/queryQualityAnalysis.sql) |
