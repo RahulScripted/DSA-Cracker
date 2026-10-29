@@ -222,6 +222,7 @@ DSA-Cracker/
 | Employee Earning More Than Manager | 🟢 Easy | [sql](./SQL/Employee%20Earning%20More%20Than%20Manager/employeeEarningMoreThanManager.sql) |
 | Find The Most Recent Order For Each Product | 🟢 Easy | [sql](./SQL/Find%20The%20Most%20Recent%20Order%20For%20Each%20Product/findTheMostRecentOrderEachProduct.sql) |
 | Highest Order Placing Customer | 🟢 Easy | [sql](./SQL/Highest%20Order%20Placing%20Customer/highestOrderPlacingCustomer.sql) |
+| Low Bonus Employee | 🟢 Easy | [sql](./SQL/Low%20Bonus%20Employee/lowBonusEmployee.sql) |
 | Delete Duplicate Emails | 🟢 Easy | [sql](./SQL/Delete%20Duplicate%20Emails/deleteDuplicateEmail.sql) |
 | Match Employees With Salaries | 🟢 Easy | [sql](./SQL/Match%20Employees%20With%20Salaries/matchEmployeeWithSalaries.sql) |
 | Non Refeered Customers | 🟢 Easy | [sql](./SQL/Non%20Refeered%20Customers/nonRefeeredCustomers.sql) |
