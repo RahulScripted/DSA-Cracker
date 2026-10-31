@@ -151,6 +151,8 @@ DSA-Cracker/
     │   └── queryQualityAnalysis.sql
     ├── Top Grade Per Student/
     │   └── topGradePerStudent.sql
+    ├── Unique Subject Per Teacher/
+    │   └── uniqueSubjectPerTeacher.sql
     ├── Visitor Without Transaction/
     │   └── visitorWithoutTransaction.sql
     └── Warmer Days/
@@ -233,6 +235,7 @@ DSA-Cracker/
 | Odd No-boaring Movies | 🟢 Easy | [sql](./SQL/Odd%20No-boaring%20Movies/oddNonBoaringMovies.sql) |
 | Query Quality Analysis | 🟢 Easy | [sql](./SQL/Query%20Quality%20Analysis/queryQualityAnalysis.sql) |
 | Top Grade Per Student | 🟢 Easy | [sql](./SQL/Top%20Grade%20Per%20Student/topGradePerStudent.sql) |
+| Unique Subject Per Teacher | 🟢 Easy | [sql](./SQL/Unique%20Subject%20Per%20Teacher/uniqueSubjectPerTeacher.sql) |
 | Visitor Without Transaction | 🟢 Easy | [sql](./SQL/Visitor%20Without%20Transaction/visitorWithoutTransaction.sql) |
 | Warmer Days | 🟢 Easy | [sql](./SQL/Warmer%20Days/warmerDays.sql) |
 
