@@ -227,6 +227,7 @@ DSA-Cracker/
 | All Product Buyers | 🟢 Easy | [sql](./SQL/All%20Product%20Buyers/allProducBuyers.sql) |
 | Big Countries | 🟢 Easy | [sql](./SQL/Big%20Countries/bigCountries.sql) |
 | Combine Active & Archived User | 🟢 Easy | [sql](./SQL/Combine%20Active%20%26%20Archived%20User/combineActiveAndArchivedUser.sql) |
+| Customers Order Review | 🟢 Easy | [sql](./SQL/Customers%20Order%20Review/customersOrderReview.sql) |
 | Duplicate Emails | 🟢 Easy | [sql](./SQL/Duplicate%20Emails/duplicateEmail.sql) |
 | Employee Earning More Than Manager | 🟢 Easy | [sql](./SQL/Employee%20Earning%20More%20Than%20Manager/employeeEarningMoreThanManager.sql) |
 | Find The Most Recent Order For Each Product | 🟢 Easy | [sql](./SQL/Find%20The%20Most%20Recent%20Order%20For%20Each%20Product/findTheMostRecentOrderEachProduct.sql) |
