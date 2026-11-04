@@ -231,6 +231,7 @@ DSA-Cracker/
 | Customers Order Review | 🟢 Easy | [sql](./SQL/Customers%20Order%20Review/customersOrderReview.sql) |
 | Duplicate Emails | 🟢 Easy | [sql](./SQL/Duplicate%20Emails/duplicateEmail.sql) |
 | Employee Earning More Than Manager | 🟢 Easy | [sql](./SQL/Employee%20Earning%20More%20Than%20Manager/employeeEarningMoreThanManager.sql) |
+| Employees with the Highest Salary in Each Department | 🟢 Easy | [sql](./SQL/Employees%20with%20the%20Highest%20Salary%20in%20Each%20Department/solution.sql) |
 | Find The Most Recent Order For Each Product | 🟢 Easy | [sql](./SQL/Find%20The%20Most%20Recent%20Order%20For%20Each%20Product/findTheMostRecentOrderEachProduct.sql) |
 | First Login Analysis | 🟢 Easy | [sql](./SQL/First%20Login%20Analysis/firstLogAnalysis.sql) |
 | Highest Order Placing Customer | 🟢 Easy | [sql](./SQL/Highest%20Order%20Placing%20Customer/highestOrderPlacingCustomer.sql) |
