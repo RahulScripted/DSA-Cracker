@@ -142,10 +142,28 @@ DSA-Cracker/
     │   └── bigCountries.sql
     ├── Combine Active & Archived User/
     │   └── combineActiveAndArchivedUser.sql
-    ├── Duplicate Emails/
-    │   └── duplicateEmail.sql
+    ├── Customers Order Review/
+    │   └── customersOrderReview.sql
     ├── Delete Duplicate Emails/
     │   └── deleteDuplicateEmail.sql
+    ├── Duplicate Emails/
+    │   └── duplicateEmail.sql
+    ├── Employee Earning More Than Manager/
+    │   └── employeeEarningMoreThanManager.sql
+    ├── Employees with the Highest Salary in Each Department/
+    │   └── solution.sql
+    ├── Find The Most Recent Order For Each Product/
+    │   └── findTheMostRecentOrderEachProduct.sql
+    ├── First Login Analysis/
+    │   └── firstLogAnalysis.sql
+    ├── Highest Order Placing Customer/
+    │   └── highestOrderPlacingCustomer.sql
+    ├── Immediate First Order percentage/
+    │   └── immediateFirstOrderPercentaage.sql
+    ├── Large Classes/
+    │   └── largeClasses.sql
+    ├── Low Bonus Employee/
+    │   └── lowBonusEmployee.sql
     ├── Match Employees With Salaries/
     │   └── matchEmployeeWithSalaries.sql
     ├── Non Refeered Customers/
@@ -237,6 +255,7 @@ DSA-Cracker/
 | First Login Analysis | 🟢 Easy | [sql](./SQL/First%20Login%20Analysis/firstLogAnalysis.sql) |
 | Highest Order Placing Customer | 🟢 Easy | [sql](./SQL/Highest%20Order%20Placing%20Customer/highestOrderPlacingCustomer.sql) |
 | Immediate First Order percentage | 🟢 Easy | [sql](./SQL/Immediate%20First%20Order%20percentage/immediateFirstOrderPercentaage.sql) |
+| Large Classes | 🟢 Easy | [sql](./SQL/Large%20Classes/largeClasses.sql) |
 | Low Bonus Employee | 🟢 Easy | [sql](./SQL/Low%20Bonus%20Employee/lowBonusEmployee.sql) |
 | Delete Duplicate Emails | 🟢 Easy | [sql](./SQL/Delete%20Duplicate%20Emails/deleteDuplicateEmail.sql) |
 | Match Employees With Salaries | 🟢 Easy | [sql](./SQL/Match%20Employees%20With%20Salaries/matchEmployeeWithSalaries.sql) |
