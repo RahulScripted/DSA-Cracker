@@ -90,6 +90,8 @@ DSA-Cracker/
 │   │       ├── October-08.cpp
 │   │       ├── October-09.cpp
 │   │       └── October-10.cpp
+│   │   └── November/
+│   │       └── November-07.cpp
 │   └── 2027/
 │
 ├── POTD - Striver/
@@ -307,17 +309,19 @@ POTD/
 │   │   ├── September-28.cpp
 │   │   ├── September-29.cpp
 │   │   └── September-30.cpp
-│   └── October/
-│       ├── October-01.cpp
-│       ├── October-02.cpp
-│       ├── October-03.cpp
-│       ├── October-04.cpp
-│       ├── October-05.cpp
-│       ├── October-06.cpp
-│       ├── October-07.cpp
-│       ├── October-08.cpp
-│       ├── October-09.cpp
-│       └── October-10.cpp
+│   ├── October/
+│   │   ├── October-01.cpp
+│   │   ├── October-02.cpp
+│   │   ├── October-03.cpp
+│   │   ├── October-04.cpp
+│   │   ├── October-05.cpp
+│   │   ├── October-06.cpp
+│   │   ├── October-07.cpp
+│   │   ├── October-08.cpp
+│   │   ├── October-09.cpp
+│   │   └── October-10.cpp
+│   ├── November/
+│   │   └── November-07.cpp
 └── 2027/
 ```
 
