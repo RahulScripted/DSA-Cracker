@@ -142,6 +142,8 @@ DSA-Cracker/
 └── SQL/
     ├── All Product Buyers/
     │   └── allProducBuyers.sql
+    ├── Average Project Experience/
+    │   └── averageProjectExperience.sql
     ├── Big Countries/
     │   └── bigCountries.sql
     ├── Combine Active & Archived User/
@@ -251,6 +253,7 @@ DSA-Cracker/
 | Problem | Difficulty | Solution |
 |---------|-----------|----------|
 | All Product Buyers | 🟢 Easy | [sql](./SQL/All%20Product%20Buyers/allProducBuyers.sql) |
+| Average Project Experience | 🟢 Easy | [sql](./SQL/Average%20Project%20Experience/averageProjectExperience.sql) |
 | Big Countries | 🟢 Easy | [sql](./SQL/Big%20Countries/bigCountries.sql) |
 | Combine Active & Archived User | 🟢 Easy | [sql](./SQL/Combine%20Active%20%26%20Archived%20User/combineActiveAndArchivedUser.sql) |
 | Customers Order Review | 🟢 Easy | [sql](./SQL/Customers%20Order%20Review/customersOrderReview.sql) |
