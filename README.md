@@ -91,6 +91,7 @@ DSA-Cracker/
 │   │       ├── October-09.cpp
 │   │       └── October-10.cpp
 │   │   └── November/
+│   │       ├── November-06.cpp
 │   │       └── November-07.cpp
 │   └── 2027/
 │
@@ -325,6 +326,7 @@ POTD/
 │   │   ├── October-09.cpp
 │   │   └── October-10.cpp
 │   ├── November/
+│   │   ├── November-06.cpp
 │   │   └── November-07.cpp
 └── 2027/
 ```
