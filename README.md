@@ -182,6 +182,8 @@ DSA-Cracker/
     │   └── oddNonBoaringMovies.sql
     ├── Query Quality Analysis/
     │   └── queryQualityAnalysis.sql
+    ├── Salespersons Without RED Orders/
+    │   └── salespersonsWithoutREDOrders.sql
     ├── Top Grade Per Student/
     │   └── topGradePerStudent.sql
     ├── Unique Subject Per Teacher/
@@ -274,6 +276,7 @@ DSA-Cracker/
 | Non Refeered Customers | 🟢 Easy | [sql](./SQL/Non%20Refeered%20Customers/nonRefeeredCustomers.sql) |
 | Odd No-boaring Movies | 🟢 Easy | [sql](./SQL/Odd%20No-boaring%20Movies/oddNonBoaringMovies.sql) |
 | Query Quality Analysis | 🟢 Easy | [sql](./SQL/Query%20Quality%20Analysis/queryQualityAnalysis.sql) |
+| Salespersons Without RED Orders | 🟢 Easy | [sql](./SQL/Salespersons%20Without%20RED%20Orders/salespersonsWithoutREDOrders.sql) |
 | Top Grade Per Student | 🟢 Easy | [sql](./SQL/Top%20Grade%20Per%20Student/topGradePerStudent.sql) |
 | Unique Subject Per Teacher | 🟢 Easy | [sql](./SQL/Unique%20Subject%20Per%20Teacher/uniqueSubjectPerTeacher.sql) |
 | Visitor Without Transaction | 🟢 Easy | [sql](./SQL/Visitor%20Without%20Transaction/visitorWithoutTransaction.sql) |
