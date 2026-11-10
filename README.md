@@ -184,6 +184,8 @@ DSA-Cracker/
     │   └── nonRefeeredCustomers.sql
     ├── Odd No-boaring Movies/
     │   └── oddNonBoaringMovies.sql
+    ├── Product Selling Price Report/
+    │   └── productSellingPriceReport.sql
     ├── Query Quality Analysis/
     │   └── queryQualityAnalysis.sql
     ├── Salespersons Without RED Orders/
@@ -281,6 +283,7 @@ DSA-Cracker/
 | Node Classification | 🟢 Easy | [sql](./SQL/Node%20Classification/nodeClaassification.sql) |
 | Non Refeered Customers | 🟢 Easy | [sql](./SQL/Non%20Refeered%20Customers/nonRefeeredCustomers.sql) |
 | Odd No-boaring Movies | 🟢 Easy | [sql](./SQL/Odd%20No-boaring%20Movies/oddNonBoaringMovies.sql) |
+| Product Selling Price Report | 🟢 Easy | [sql](./SQL/Product%20Selling%20Price%20Report/productSellingPriceReport.sql) |
 | Query Quality Analysis | 🟢 Easy | [sql](./SQL/Query%20Quality%20Analysis/queryQualityAnalysis.sql) |
 | Salespersons Without RED Orders | 🟢 Easy | [sql](./SQL/Salespersons%20Without%20RED%20Orders/salespersonsWithoutREDOrders.sql) |
 | Top 3 Salaries Per Department | 🟢 Easy | [sql](./SQL/Top%203%20Salaries%20Per%20Department/top3SalariesPerDepartment.sql) |
