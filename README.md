@@ -170,6 +170,8 @@ DSA-Cracker/
     │   └── findTheMostRecentOrderEachProduct.sql
     ├── First Login Analysis/
     │   └── firstLogAnalysis.sql
+    ├── High Report Managers/
+    │   └── highReportManagers.sql
     ├── Highest Order Placing Customer/
     │   └── highestOrderPlacingCustomer.sql
     ├── Immediate First Order percentage/
@@ -276,6 +278,7 @@ DSA-Cracker/
 | Employees with the Highest Salary in Each Department | 🟢 Easy | [sql](./SQL/Employees%20with%20the%20Highest%20Salary%20in%20Each%20Department/solution.sql) |
 | Find The Most Recent Order For Each Product | 🟢 Easy | [sql](./SQL/Find%20The%20Most%20Recent%20Order%20For%20Each%20Product/findTheMostRecentOrderEachProduct.sql) |
 | First Login Analysis | 🟢 Easy | [sql](./SQL/First%20Login%20Analysis/firstLogAnalysis.sql) |
+| High Report Managers | 🟢 Easy | [sql](./SQL/High%20Report%20Managers/highReportManagers.sql) |
 | Highest Order Placing Customer | 🟢 Easy | [sql](./SQL/Highest%20Order%20Placing%20Customer/highestOrderPlacingCustomer.sql) |
 | Immediate First Order percentage | 🟢 Easy | [sql](./SQL/Immediate%20First%20Order%20percentage/immediateFirstOrderPercentaage.sql) |
 | Large Classes | 🟢 Easy | [sql](./SQL/Large%20Classes/largeClasses.sql) |
