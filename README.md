@@ -194,6 +194,8 @@ DSA-Cracker/
     │   └── productSellingPriceReport.sql
     ├── Query Quality Analysis/
     │   └── queryQualityAnalysis.sql
+    ├── Restaurant Payment Trends/
+    │   └── restaurantPaymentTrends.sql
     ├── Salespersons Without RED Orders/
     │   └── salespersonsWithoutREDOrders.sql
     ├── Top 3 Salaries Per Department/
@@ -292,6 +294,7 @@ DSA-Cracker/
 | Odd No-boaring Movies | 🟢 Easy | [sql](./SQL/Odd%20No-boaring%20Movies/oddNonBoaringMovies.sql) |
 | Product Selling Price Report | 🟢 Easy | [sql](./SQL/Product%20Selling%20Price%20Report/productSellingPriceReport.sql) |
 | Query Quality Analysis | 🟢 Easy | [sql](./SQL/Query%20Quality%20Analysis/queryQualityAnalysis.sql) |
+| Restaurant Payment Trends | 🟢 Easy | [sql](./SQL/Restaurant%20Payment%20Trends/restaurantPaymentTrends.sql) |
 | Salespersons Without RED Orders | 🟢 Easy | [sql](./SQL/Salespersons%20Without%20RED%20Orders/salespersonsWithoutREDOrders.sql) |
 | Top 3 Salaries Per Department | 🟢 Easy | [sql](./SQL/Top%203%20Salaries%20Per%20Department/top3SalariesPerDepartment.sql) |
 | Top Grade Per Student | 🟢 Easy | [sql](./SQL/Top%20Grade%20Per%20Student/topGradePerStudent.sql) |
