@@ -181,6 +181,8 @@ DSA-Cracker/
     │   └── highestOrderPlacingCustomer.sql
     ├── Immediate First Order percentage/
     │   └── immediateFirstOrderPercentaage.sql
+    ├── Instant Food Delivery/
+    │   └── instantFoodDelivery.sql
     ├── Large Classes/
     │   └── largeClasses.sql
     ├── Low Bonus Employee/
@@ -288,6 +290,7 @@ DSA-Cracker/
 | High Report Managers | 🟢 Easy | [sql](./SQL/High%20Report%20Managers/highReportManagers.sql) |
 | Highest Order Placing Customer | 🟢 Easy | [sql](./SQL/Highest%20Order%20Placing%20Customer/highestOrderPlacingCustomer.sql) |
 | Immediate First Order percentage | 🟢 Easy | [sql](./SQL/Immediate%20First%20Order%20percentage/immediateFirstOrderPercentaage.sql) |
+| Instant Food Delivery | 🟢 Easy | [sql](./SQL/Instant%20Food%20Delivery/instantFoodDelivery.sql) |
 | Large Classes | 🟢 Easy | [sql](./SQL/Large%20Classes/largeClasses.sql) |
 | Low Bonus Employee | 🟢 Easy | [sql](./SQL/Low%20Bonus%20Employee/lowBonusEmployee.sql) |
 | Delete Duplicate Emails | 🟢 Easy | [sql](./SQL/Delete%20Duplicate%20Emails/deleteDuplicateEmail.sql) |
