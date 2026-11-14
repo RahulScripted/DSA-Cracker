@@ -47,8 +47,12 @@ DSA-Cracker/
 │   │   └── missingNumber.cpp
 │   ├── Move Zeroes/
 │   │   └── MovesZeroes.cpp
-│   └── Rotate Array/
-│       └── rotateArray.cpp
+│   ├── Rotate Array/
+│   │   └── rotateArray.cpp
+│   ├── Two Sum/
+│   │   └── twoSum.cpp
+│   └── Valid Palindrome/
+│       └── validPalindrome.cpp
 │
 ├── POTD/
 │   ├── 2026/
@@ -79,7 +83,7 @@ DSA-Cracker/
 │   │   │   ├── September-28.cpp
 │   │   │   ├── September-29.cpp
 │   │   │   └── September-30.cpp
-│   │   └── October/
+│   │   ├── October/
 │   │       ├── October-01.cpp
 │   │       ├── October-02.cpp
 │   │       ├── October-03.cpp
@@ -98,7 +102,6 @@ DSA-Cracker/
 │   │       ├── November-10.cpp
 │   │       ├── November-11.cpp
 │   │       └── November-12.cpp
-│   └── 2027/
 │
 ├── POTD - Striver/
 │   ├── 2026/
@@ -133,7 +136,8 @@ DSA-Cracker/
 │   │   │   ├── November-09.cpp
 │   │   │   ├── November-10.cpp
 │   │   │   ├── November-11.cpp
-│   │   │   └── November-12.cpp
+│   │   │   ├── November-12.cpp
+│   │   │   └── November-15.cpp
 │   │   └── December/
 │   └── 2027/
 │
@@ -147,8 +151,6 @@ DSA-Cracker/
 │           ├── LongestResilientSubarrayI.cpp
 │           ├── LongestResilientSubarrayII.cpp
 │           └── MaximumProductPairWithTargetSum.cpp
-│
-├── Roadmap/
 │
 └── SQL/
     ├── All Product Buyers/
@@ -401,7 +403,8 @@ POTD - Striver/
 │   │   ├── November-09.cpp
 │   │   ├── November-10.cpp
 │   │   ├── November-11.cpp
-│   │   └── November-12.cpp
+│   │   ├── November-12.cpp
+│   │   └── November-15.cpp
 │   └── December/
 └── 2027/
 ```
