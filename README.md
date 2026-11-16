@@ -206,6 +206,8 @@ DSA-Cracker/
     │   └── restaurantPaymentTrends.sql
     ├── Salespersons Without RED Orders/
     │   └── salespersonsWithoutREDOrders.sql
+    ├── Suggested Pages/
+    │   └── suggestedPages.sql
     ├── Top 3 Salaries Per Department/
     │   └── top3SalariesPerDepartment.sql
     ├── Top Grade Per Student/
@@ -305,6 +307,7 @@ DSA-Cracker/
 | Query Quality Analysis | 🟢 Easy | [sql](./SQL/Query%20Quality%20Analysis/queryQualityAnalysis.sql) |
 | Restaurant Payment Trends | 🟢 Easy | [sql](./SQL/Restaurant%20Payment%20Trends/restaurantPaymentTrends.sql) |
 | Salespersons Without RED Orders | 🟢 Easy | [sql](./SQL/Salespersons%20Without%20RED%20Orders/salespersonsWithoutREDOrders.sql) |
+| Suggested Pages | 🟢 Easy | [sql](./SQL/Suggested%20Pages/suggestedPages.sql) |
 | Top 3 Salaries Per Department | 🟢 Easy | [sql](./SQL/Top%203%20Salaries%20Per%20Department/top3SalariesPerDepartment.sql) |
 | Top Grade Per Student | 🟢 Easy | [sql](./SQL/Top%20Grade%20Per%20Student/topGradePerStudent.sql) |
 | Unique Subject Per Teacher | 🟢 Easy | [sql](./SQL/Unique%20Subject%20Per%20Teacher/uniqueSubjectPerTeacher.sql) |
