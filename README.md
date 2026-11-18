@@ -184,6 +184,8 @@ DSA-Cracker/
     │   └── findTheMostRecentOrderEachProduct.sql
     ├── First Login Analysis/
     │   └── firstLogAnalysis.sql
+    ├── Football Team Scores/
+    │   └── footballTeamScores.sql
     ├── High Report Managers/
     │   └── highReportManagers.sql
     ├── Highest Order Placing Customer/
@@ -299,6 +301,7 @@ DSA-Cracker/
 | Find Missing Subtask For Every Task | 🟢 Easy | [sql](./SQL/Find%20Missing%20Subtask%20For%20Every%20Task/findMisssingSubtaskForEveryTask.sql) |
 | Find The Most Recent Order For Each Product | 🟢 Easy | [sql](./SQL/Find%20The%20Most%20Recent%20Order%20For%20Each%20Product/findTheMostRecentOrderEachProduct.sql) |
 | First Login Analysis | 🟢 Easy | [sql](./SQL/First%20Login%20Analysis/firstLogAnalysis.sql) |
+| Football Team Scores | 🟢 Easy | [sql](./SQL/Football%20Team%20Scores/footballTeamScores.sql) |
 | High Report Managers | 🟢 Easy | [sql](./SQL/High%20Report%20Managers/highReportManagers.sql) |
 | Highest Order Placing Customer | 🟢 Easy | [sql](./SQL/Highest%20Order%20Placing%20Customer/highestOrderPlacingCustomer.sql) |
 | Immediate First Order percentage | 🟢 Easy | [sql](./SQL/Immediate%20First%20Order%20percentage/immediateFirstOrderPercentaage.sql) |
