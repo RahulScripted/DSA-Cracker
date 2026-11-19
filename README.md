@@ -178,6 +178,8 @@ DSA-Cracker/
     │   └── employeeEarningMoreThanManager.sql
     ├── Employees with the Highest Salary in Each Department/
     │   └── solution.sql
+    ├── Find Continous Ranges From Logs/
+    │   └── findContinousRangesFromLogs.sql
     ├── Find Missing Subtask For Every Task/
     │   └── findMisssingSubtaskForEveryTask.sql
     ├── Find The Most Recent Order For Each Product/
@@ -298,6 +300,7 @@ DSA-Cracker/
 | Duplicate Emails | 🟢 Easy | [sql](./SQL/Duplicate%20Emails/duplicateEmail.sql) |
 | Employee Earning More Than Manager | 🟢 Easy | [sql](./SQL/Employee%20Earning%20More%20Than%20Manager/employeeEarningMoreThanManager.sql) |
 | Employees with the Highest Salary in Each Department | 🟢 Easy | [sql](./SQL/Employees%20with%20the%20Highest%20Salary%20in%20Each%20Department/solution.sql) |
+| Find Continous Ranges From Logs | 🟢 Easy | [sql](./SQL/Find%20Continous%20Ranges%20From%20Logs/findContinousRangesFromLogs.sql) |
 | Find Missing Subtask For Every Task | 🟢 Easy | [sql](./SQL/Find%20Missing%20Subtask%20For%20Every%20Task/findMisssingSubtaskForEveryTask.sql) |
 | Find The Most Recent Order For Each Product | 🟢 Easy | [sql](./SQL/Find%20The%20Most%20Recent%20Order%20For%20Each%20Product/findTheMostRecentOrderEachProduct.sql) |
 | First Login Analysis | 🟢 Easy | [sql](./SQL/First%20Login%20Analysis/firstLogAnalysis.sql) |
