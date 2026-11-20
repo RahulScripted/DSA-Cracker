@@ -225,6 +225,8 @@ DSA-Cracker/
     │   └── top3SalariesPerDepartment.sql
     ├── Top Grade Per Student/
     │   └── topGradePerStudent.sql
+    ├── Top Ratings In February 2020/
+    │   └── topRatingsInFebruary2020.sql
     ├── Unique Subject Per Teacher/
     │   └── uniqueSubjectPerTeacher.sql
     ├── Visitor Without Transaction/
@@ -326,6 +328,7 @@ DSA-Cracker/
 | Suggested Pages | 🟢 Easy | [sql](./SQL/Suggested%20Pages/suggestedPages.sql) |
 | Top 3 Salaries Per Department | 🟢 Easy | [sql](./SQL/Top%203%20Salaries%20Per%20Department/top3SalariesPerDepartment.sql) |
 | Top Grade Per Student | 🟢 Easy | [sql](./SQL/Top%20Grade%20Per%20Student/topGradePerStudent.sql) |
+| Top Ratings In February 2020 | 🟢 Easy | [sql](./SQL/Top%20Ratings%20In%20February%202020/topRatingsInFebruary2020.sql) |
 | Unique Subject Per Teacher | 🟢 Easy | [sql](./SQL/Unique%20Subject%20Per%20Teacher/uniqueSubjectPerTeacher.sql) |
 | Visitor Without Transaction | 🟢 Easy | [sql](./SQL/Visitor%20Without%20Transaction/visitorWithoutTransaction.sql) |
 | Warmer Days | 🟢 Easy | [sql](./SQL/Warmer%20Days/warmerDays.sql) |
