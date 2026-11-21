@@ -206,6 +206,8 @@ DSA-Cracker/
     │   └── lowBonusEmployee.sql
     ├── Match Employees With Salaries/
     │   └── matchEmployeeWithSalaries.sql
+    ├── Most Frequent Travellers/
+    │   └── mostFrequentTravellers.sql
     ├── Node Classification/
     │   └── nodeClaassification.sql
     ├── Non Refeered Customers/
@@ -319,6 +321,7 @@ DSA-Cracker/
 | Low Bonus Employee | 🟢 Easy | [sql](./SQL/Low%20Bonus%20Employee/lowBonusEmployee.sql) |
 | Delete Duplicate Emails | 🟢 Easy | [sql](./SQL/Delete%20Duplicate%20Emails/deleteDuplicateEmail.sql) |
 | Match Employees With Salaries | 🟢 Easy | [sql](./SQL/Match%20Employees%20With%20Salaries/matchEmployeeWithSalaries.sql) |
+| Most Frequent Travellers | 🟢 Easy | [sql](./SQL/Most%20Frequent%20Travellers/mostFrequentTravellers.sql) |
 | Node Classification | 🟢 Easy | [sql](./SQL/Node%20Classification/nodeClaassification.sql) |
 | Non Refeered Customers | 🟢 Easy | [sql](./SQL/Non%20Refeered%20Customers/nonRefeeredCustomers.sql) |
 | Odd No-boaring Movies | 🟢 Easy | [sql](./SQL/Odd%20No-boaring%20Movies/oddNonBoaringMovies.sql) |
