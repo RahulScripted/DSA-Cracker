@@ -419,7 +419,8 @@ POTD/
 │   │   ├── November-21.cpp
 │   │   ├── November-22.cpp
 │   │   ├── November-23.cpp
-│   │   └── November-24.cpp
+│   │   ├── November-24.cpp
+│   │   └── November-25.cpp
 └── 2027/
 ```
 
