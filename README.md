@@ -171,6 +171,8 @@ DSA-Cracker/
 │           └── MaximumProductPairWithTargetSum.cpp
 │
 └── SQL/
+    ├── A & B Buyers Without C/
+    │   └── A&B_BuyersWithoutC.sql
     ├── All Product Buyers/
     │   └── allProducBuyers.sql
     ├── Average Project Experience/
@@ -311,6 +313,7 @@ DSA-Cracker/
 
 | Problem | Difficulty | Solution |
 |---------|-----------|----------|
+| A & B Buyers Without C | 🟢 Easy | [sql](./SQL/A%20%26%20B%20Buyers%20Without%20C/A%26B_BuyersWithoutC.sql) |
 | All Product Buyers | 🟢 Easy | [sql](./SQL/All%20Product%20Buyers/allProducBuyers.sql) |
 | Average Project Experience | 🟢 Easy | [sql](./SQL/Average%20Project%20Experience/averageProjectExperience.sql) |
 | Big Countries | 🟢 Easy | [sql](./SQL/Big%20Countries/bigCountries.sql) |
