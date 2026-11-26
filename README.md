@@ -111,7 +111,8 @@ DSA-Cracker/
 │   │       ├── November-21.cpp
 │   │       ├── November-22.cpp
 │   │       ├── November-23.cpp
-│   │       └── November-24.cpp
+│   │       ├── November-24.cpp
+│   │       └── November-26.cpp
 │
 ├── POTD - Striver/
 │   ├── 2026/
@@ -425,7 +426,6 @@ POTD/
 │   │   ├── November-22.cpp
 │   │   ├── November-23.cpp
 │   │   ├── November-24.cpp
-│   │   ├── November-25.cpp
 │   │   └── November-26.cpp
 └── 2027/
 ```
@@ -480,7 +480,9 @@ POTD - Striver/
 │   │   ├── November-21.cpp
 │   │   ├── November-22.cpp
 │   │   ├── November-23.cpp
-│   │   └── November-24.cpp
+│   │   ├── November-24.cpp
+│   │   ├── November-25.cpp
+│   │   └── November-26.cpp
 │   └── December/
 └── 2027/
 ```
