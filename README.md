@@ -156,7 +156,8 @@ DSA-Cracker/
 │   │   │   ├── November-21.cpp
 │   │   │   ├── November-22.cpp
 │   │   │   ├── November-23.cpp
-│   │   │   └── November-24.cpp
+│   │   │   ├── November-24.cpp
+│   │   │   └── November-25.cpp
 │   │   └── December/
 │   └── 2027/
 │
@@ -182,6 +183,8 @@ DSA-Cracker/
     │   └── bigCountries.sql
     ├── Combine Active & Archived User/
     │   └── combineActiveAndArchivedUser.sql
+    ├── Contest Participation Rate/
+    │   └── contestParticipationRate.sql
     ├── Customers Order Review/
     │   └── customersOrderReview.sql
     ├── Delete Duplicate Emails/
@@ -319,6 +322,7 @@ DSA-Cracker/
 | Average Project Experience | 🟢 Easy | [sql](./SQL/Average%20Project%20Experience/averageProjectExperience.sql) |
 | Big Countries | 🟢 Easy | [sql](./SQL/Big%20Countries/bigCountries.sql) |
 | Combine Active & Archived User | 🟢 Easy | [sql](./SQL/Combine%20Active%20%26%20Archived%20User/combineActiveAndArchivedUser.sql) |
+| Contest Participation Rate | 🟢 Easy | [sql](./SQL/Contest%20Participation%20Rate/contestParticipationRate.sql) |
 | Customers Order Review | 🟢 Easy | [sql](./SQL/Customers%20Order%20Review/customersOrderReview.sql) |
 | Duplicate Emails | 🟢 Easy | [sql](./SQL/Duplicate%20Emails/duplicateEmail.sql) |
 | Employee Earning More Than Manager | 🟢 Easy | [sql](./SQL/Employee%20Earning%20More%20Than%20Manager/employeeEarningMoreThanManager.sql) |
