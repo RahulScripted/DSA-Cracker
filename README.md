@@ -331,6 +331,7 @@ DSA-Cracker/
 | High Report Managers | 🟢 Easy | [sql](./SQL/High%20Report%20Managers/highReportManagers.sql) |
 | Highest Order Placing Customer | 🟢 Easy | [sql](./SQL/Highest%20Order%20Placing%20Customer/highestOrderPlacingCustomer.sql) |
 | Immediate First Order percentage | 🟢 Easy | [sql](./SQL/Immediate%20First%20Order%20percentage/immediateFirstOrderPercentaage.sql) |
+| Inactive Customers | 🟢 Easy | [sql](./SQL/Inactive%20Customers/inactiveCustomers.sql) |
 | Inactive Sellers | 🟢 Easy | [sql](./SQL/Inactive%20Sellers/inactiveSelllers.sql) |
 | Instant Food Delivery | 🟢 Easy | [sql](./SQL/Instant%20Food%20Delivery/instantFoodDelivery.sql) |
 | Large Classes | 🟢 Easy | [sql](./SQL/Large%20Classes/largeClasses.sql) |
@@ -418,7 +419,8 @@ POTD/
 │   │   ├── November-21.cpp
 │   │   ├── November-22.cpp
 │   │   ├── November-23.cpp
-│   │   └── November-24.cpp
+│   │   ├── November-24.cpp
+│   │   └── November-25.cpp
 └── 2027/
 ```
 
