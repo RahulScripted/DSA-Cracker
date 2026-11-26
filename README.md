@@ -157,7 +157,8 @@ DSA-Cracker/
 │   │   │   ├── November-22.cpp
 │   │   │   ├── November-23.cpp
 │   │   │   ├── November-24.cpp
-│   │   │   └── November-25.cpp
+│   │   │   ├── November-25.cpp
+│   │   │   └── November-26.cpp
 │   │   └── December/
 │   └── 2027/
 │
@@ -424,7 +425,8 @@ POTD/
 │   │   ├── November-22.cpp
 │   │   ├── November-23.cpp
 │   │   ├── November-24.cpp
-│   │   └── November-25.cpp
+│   │   ├── November-25.cpp
+│   │   └── November-26.cpp
 └── 2027/
 ```
 
