@@ -225,6 +225,8 @@ DSA-Cracker/
     │   └── lowBonusEmployee.sql
     ├── Match Employees With Salaries/
     │   └── matchEmployeeWithSalaries.sql
+    ├── Most Experience Employee in Each Project/
+    │   └── mostExperienceEmployeeInEachProject.sql
     ├── Most Frequent Travellers/
     │   └── mostFrequentTravellers.sql
     ├── Most Recent Three Orders for Each Customer/
@@ -346,6 +348,7 @@ DSA-Cracker/
 | Low Bonus Employee | 🟢 Easy | [sql](./SQL/Low%20Bonus%20Employee/lowBonusEmployee.sql) |
 | Delete Duplicate Emails | 🟢 Easy | [sql](./SQL/Delete%20Duplicate%20Emails/deleteDuplicateEmail.sql) |
 | Match Employees With Salaries | 🟢 Easy | [sql](./SQL/Match%20Employees%20With%20Salaries/matchEmployeeWithSalaries.sql) |
+| Most Experience Employee in Each Project | 🟢 Easy | [sql](./SQL/Most%20Experience%20Employee%20in%20Each%20Project/mostExperienceEmployeeInEachProject.sql) |
 | Most Frequent Travellers | 🟢 Easy | [sql](./SQL/Most%20Frequent%20Travellers/mostFrequentTravellers.sql) |
 | Most Recent Three Orders for Each Customer | 🟢 Easy | [sql](./SQL/Most%20Recent%20Three%20Orders%20for%20Each%20Customer/mostRecentThreeOrdersForEachCustomer.sql) |
 | Node Classification | 🟢 Easy | [sql](./SQL/Node%20Classification/nodeClaassification.sql) |
