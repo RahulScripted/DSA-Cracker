@@ -182,6 +182,8 @@ DSA-Cracker/
     │   └── A&B_BuyersWithoutC.sql
     ├── All Product Buyers/
     │   └── allProducBuyers.sql
+    ├── Available Seat Treaks/
+    │   └── availableSeatTreaks.sql
     ├── Average Project Experience/
     │   └── averageProjectExperience.sql
     ├── Big Countries/
@@ -326,6 +328,7 @@ DSA-Cracker/
 |---------|-----------|----------|
 | A & B Buyers Without C | 🟢 Easy | [sql](./SQL/A%20%26%20B%20Buyers%20Without%20C/A%26B_BuyersWithoutC.sql) |
 | All Product Buyers | 🟢 Easy | [sql](./SQL/All%20Product%20Buyers/allProducBuyers.sql) |
+| Available Seat Treaks | 🟢 Easy | [sql](./SQL/Available%20Seat%20Treaks/availableSeatTreaks.sql) |
 | Average Project Experience | 🟢 Easy | [sql](./SQL/Average%20Project%20Experience/averageProjectExperience.sql) |
 | Big Countries | 🟢 Easy | [sql](./SQL/Big%20Countries/bigCountries.sql) |
 | Combine Active & Archived User | 🟢 Easy | [sql](./SQL/Combine%20Active%20%26%20Archived%20User/combineActiveAndArchivedUser.sql) |
